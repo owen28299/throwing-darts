@@ -1,0 +1,24 @@
+{
+  "name": "throwing-darts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "throwing-darts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owen28299/throwing-darts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owen28299/throwing-darts/issues"
+  },
+  "homepage": "https://github.com/owen28299/throwing-darts#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
